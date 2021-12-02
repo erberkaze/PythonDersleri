@@ -5,4 +5,6 @@ Herkese merhabalar,
 Bu github repo'sunda sizlere yaklaşık 10 yıldır kullanmış olduğum python dilinin bir nevi dijital defterini oluşturmaya çalışacağım :)
 Umarım sizin için de yararlı, keyifli ve bilgilendirici olur.
 
+Dersler için *Wiki* kısmına tıklamayı unutmayın :)
+
 -erberkaze
